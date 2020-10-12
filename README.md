@@ -2,7 +2,7 @@
 
   ### :sunglasses: About
   name: 22k
-  blog: [博客](https://8430177.io)
+  blog: [博客](http://8430177.github.io/)
 
 
   ### 🤝🏻 Tech Stack
